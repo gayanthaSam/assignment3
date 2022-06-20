@@ -1,1 +1,1 @@
-https://gayanthasam.github.io/assignment3/indec.html
+https://gayanthasam.github.io/assignment3/index.html
